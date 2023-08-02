@@ -1,0 +1,194 @@
+{
+  "WhitelistedUsers": {
+    "1077461832056442901": {
+      "hash": "82b91cb83fb5f2e340f1664eb3f9f9c78c38e19926c7590de1bc2935eaa5e78764f67dc471061f3e9017c3ddadc57412cce59cf2cac7d6bb758572177861b309",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "919665092025528441": {
+      "hash": "3b24ed2b391395e96ad433c8a274da2990f9f670a475527cfa59534d8f9f319a46c7afaf39e20b420f26d0522806915942543c98662d30e2d02f188188afb94a",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "855868524585156618": {
+      "hash": "554e77c69364cfeff60ed61c83176ed4ffd4ed650be3a48f07281e623f0e8495838768e358d98d5790270605364503593624902a695500fc823c434339f28915",
+      "attackable": false,
+      "level": 1,
+      "tags": null
+    },
+    "378746510596243458": {
+      "hash": "dd8563eaae38b800c1638ceb5f58f37aa0ce2f2438b2d065be673c1a2c95f8285b38be12e99f40d447b6a092366810fac0823f3fe6ae8eceecc5141cc4a2da3c",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "AC MOD",
+          "color": [
+            160,
+            34,
+            160
+          ]
+        }
+      ]
+    },
+    "709094619161296939": {
+      "hash": "12cfec050357708263db868f52d4327c137fd60260a4c1d48170b884f6432cc00708f0a16b92b14c1b6054112fb8d4ad8398732c7d4e6cf38a569ba344f00010",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "baller",
+          "color": [
+            0,
+            255,
+            0
+          ]
+        }
+      ]
+    },
+    "1125789044249460786": {
+      "hash": "531e6216db56b2b51d74ea88a1ade2f1ec31c3597b58f8772bdca86fc8439214843f1f74a8b47bfa9dd237bd839c10b1a87613a04e6fa68a02fc200f297ee6ce",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    },
+    "900134277616926780": {
+      "hash": "2e24c44b7f97ac617921decf6999733c28dd68514b1094e9d9dfa760256b86862b4c2a3e99bea98779b9844cc36d73112fb0fada5a55c98effcc815fa2ee4cb2",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "961711371425300602": {
+      "hash": "9c5506cf98f284510831f14d35df48a2af0dba9d448809806c791b89d98b35af1f27167a77cc92eeb0aed12daca8373a3823bb33dbba1066cb27a1d74534490d",
+      "attackable": false,
+      "level": 1,
+      "tags": null
+    },
+    "1000432733467721799": {
+      "hash": "9bc294a2ac3d988c66efd57769af7c2b4e309b5bccb13c65ab81ba6442afa5f5c56463f22d76cdbf59e4bdb0f4dc24956e7fe8408014de22be90a557ad603815",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "PROUD AMERICAN",
+          "color": [
+            90,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "661623849825337373": {
+      "hash": "ee71f7a630ccde39b6b1084939d68b1dc26183224916b7dc71799c42a28e7916c5b08142d882abe4ce186b43eff019eef89957814bd71db1c5b0a91dd00a7794",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "989715351975624754": {
+      "hash": "d3a5dcf2b84d353a5ec310376477b5e41f2b999cade9e427b9e335ed0e5d19eb5fd66e53c59d3e399ce2652346f538a294fa1c0c1a6d4aae5043bd0c81a6a1f5",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+    "822903547540537384": [
+      {
+        "text": "VIP GAMING CHAIR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "378746510596243458": [
+      {
+        "text": "AC MOD",
+        "color": [
+          160,
+          34,
+          160
+        ]
+      }
+    ],
+    "709094619161296939": [
+      {
+        "text": "baller",
+        "color": [
+          0,
+          255,
+          0
+        ]
+      }
+    ],
+    "1000432733467721799": [
+      {
+        "text": "PROUD AMERICAN",
+        "color": [
+          90,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "BlacklistedUsers": []
+}
