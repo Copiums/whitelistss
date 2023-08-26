@@ -1,45 +1,15 @@
 {
   "WhitelistedUsers": {
-    "1077461832056442901": {
-      "hash": "82b91cb83fb5f2e340f1664eb3f9f9c78c38e19926c7590de1bc2935eaa5e78764f67dc471061f3e9017c3ddadc57412cce59cf2cac7d6bb758572177861b309",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "VAPE PRIVATE",
-          "color": [
-            178,
-            0,
-            255
-          ]
-        }
-      ]
-    },
-    "921545373456154624":{
-      "hash": "8cf09c71c5ab96cb6c23e53f15e7f189dfba81c36adfb2e9da3ee10da46a7557a8ce3af3c5b3a18ac3fc1d79a83301a71d89aa4b5b1b57bf2a9b3b8d46d712d3",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "VAPE PRIVATE+",
-          "color": [
-            178,
-            0,
-            255
-          ]
-        }
-      ]
-    },
     "919665092025528441": {
-      "hash": "3b24ed2b391395e96ad433c8a274da2990f9f670a475527cfa59534d8f9f319a46c7afaf39e20b420f26d0522806915942543c98662d30e2d02f188188afb94a",
+      "hash": "8d2407c4f9e1f0a76818d4002043515b052dcf6e8d1a04f328ab1d5b0bf49d85b295de73bf472d3d2d7ee6aa35ede23f7323d75cc3bafc008b29fe2f0e111392",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "VAPE PRIVATE",
+          "text": "HCKR",
           "color": [
-            178,
-            0,
+            255,
+            255,
             255
           ]
         }
@@ -52,12 +22,12 @@
       "tags": null
     },
     "378746510596243458": {
-      "hash": "dd8563eaae38b800c1638ceb5f58f37aa0ce2f2438b2d065be673c1a2c95f8285b38be12e99f40d447b6a092366810fac0823f3fe6ae8eceecc5141cc4a2da3c",
+      "hash": "45e0d92ebeee8c80df76e11f321a854c2f31df5911ec738792e207b416de93119a666a27938cfd2cb002501d80e3d72d0cae2ce80ff12fa1f8faa81955a480ba",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "AC MOD",
+          "text": "<font color=\"#FF0000\">A</font><font color=\"#FF3333\">C </font><font color=\"#FF6666\">M</font><font color=\"#FF9999\">O</font><font color=\"#FFCCCC\">D</font>",
           "color": [
             160,
             34,
@@ -118,22 +88,37 @@
       "tags": null
     },
     "1000432733467721799": {
-      "hash": "9bc294a2ac3d988c66efd57769af7c2b4e309b5bccb13c65ab81ba6442afa5f5c56463f22d76cdbf59e4bdb0f4dc24956e7fe8408014de22be90a557ad603815",
+      "hash": "349f5117ed260ec68b7ad48a894eced46a78f352977e8818e6671a97048b416a33fe037088d227ae41c3f35caa193dfdca4abb72569ea0fc77807a155c327b9e",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "PROUD AMERICAN",
+          "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
           "color": [
-            90,
-            0,
-            0
+            57,
+            56,
+            110
           ]
         }
       ]
     },
     "661623849825337373": {
-      "hash": "ee71f7a630ccde39b6b1084939d68b1dc26183224916b7dc71799c42a28e7916c5b08142d882abe4ce186b43eff019eef89957814bd71db1c5b0a91dd00a7794",
+      "hash": "c5e9b7178d31c4132bd7226e2e02200e73a065b857c59d933d2db90f6c5942964185099bae71f9676ef520174fd3458a4a28501462a519012cc24e226648b898",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "921545373456154624": {
+      "hash": "ed8fbddd40794bc7bf25c0dfd976373ade3371b4c51b15eccecf304977ea910410c58191bc23508354a7cb499d8c9104e70370c68ea845938bd7c68e0bdc6fdd",
       "attackable": false,
       "level": 1,
       "tags": [
@@ -148,7 +133,82 @@
       ]
     },
     "989715351975624754": {
-      "hash": "d3a5dcf2b84d353a5ec310376477b5e41f2b999cade9e427b9e335ed0e5d19eb5fd66e53c59d3e399ce2652346f538a294fa1c0c1a6d4aae5043bd0c81a6a1f5",
+      "hash": "c6e153376823745621d209cc2faead0e3e755b79bb3734c217c2218044d5c82f65dd4609d02b48b56bb64cac67cc3d377fd0c5a01f43b74875698d7739021614",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VIETNAM OH YEAH",
+          "color": [
+            205,
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    "759071932276146216": {
+      "hash": "49c50ae303b059a8fc19a0eea0f5b1484d22199b3ea752147f7ba3c186f7f03babdd155afc2c10e7fc18bd136effcd7a71dd7e8402ab699cf9a66ac9b0d676f8",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "illegal immigrant",
+          "color": [
+            255,
+            255,
+            77
+          ]
+        }
+      ]
+    },
+    "771130296228904960": {
+      "hash": "0e6e5d750d009ae7895c2add0e812954d2fe2f8bde3859121263b0eed4b89802a3cc2cb01154ec8361bca7a9d4b20d5ccb8f5fa27779947a54969040a707e7c8",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "I am Fis",
+          "color": [
+            30,
+            144,
+            255
+          ]
+        }
+      ]
+    },
+    "1077461832056442901": {
+      "hash": "fdefc63862b2656e92251965674bd83e8698aec797e020a28c4fcb2682958cb13638617e35166c3ecc524c1f68971fe8f2673a2daf02750c8a8aed7f4306d6d8",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Pisston",
+          "color": [
+            255,
+            255,
+            0
+          ]
+        }
+      ]
+    },
+    "384718982625886208": {
+      "hash": "39c427ec8764a608a43634eac3f71b5afc203d3830cab65339217fd74803e77eece23a818ed567f354b61c1830d7bf3dce54f830943b7077b62cf62f362848f5",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Jesus",
+          "color": [
+            255,
+            255,
+            0
+          ]
+        }
+      ]
+    },
+    "548146409065545730": {
+      "hash": "5dba73f4b10fab2c183948480369097e99600a07ee59fb013c30590f81853a32de6413cee14fa7d53bc20783d1b5ffb5d4338f4998368be38f7f2874120e7cf0",
       "attackable": false,
       "level": 1,
       "tags": [
@@ -176,7 +236,7 @@
     ],
     "378746510596243458": [
       {
-        "text": "AC MOD",
+        "text": "<font color=\"#FF0000\">A</font><font color=\"#FF3333\">C </font><font color=\"#FF6666\">M</font><font color=\"#FF9999\">O</font><font color=\"#FFCCCC\">D</font>",
         "color": [
           160,
           34,
@@ -196,10 +256,70 @@
     ],
     "1000432733467721799": [
       {
-        "text": "PROUD AMERICAN",
+        "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
         "color": [
-          90,
-          0,
+          57,
+          56,
+          110
+        ]
+      }
+    ],
+    "759071932276146216": [
+      {
+        "text": "electron_http_request",
+        "color": [
+          255,
+          255,
+          77
+        ]
+      }
+    ],
+    "771130296228904960": [
+      {
+        "text": "I am Fis",
+        "color": [
+          30,
+          144,
+          255
+        ]
+      }
+    ],
+    "919665092025528441": [
+      {
+        "text": "HCKR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "1077461832056442901": [
+      {
+        "text": "Pisston",
+        "color": [
+          255,
+          255,
+          0
+        ]
+      }
+    ],
+    "989715351975624754": [
+      {
+        "text": "VIETNAM OH YEAH",
+        "color": [
+          205,
+          92,
+          92
+        ]
+      }
+    ],
+    "384718982625886208": [
+      {
+        "text": "Jesus",
+        "color": [
+          255,
+          255,
           0
         ]
       }
