@@ -6,6 +6,13 @@
       "notag": false
     }
   },
+  "owners": {
+    "1059269872011444354": {
+      "hash": "f5895815fa7979c48affe554de88a46f2b2d72e8647076da8f7eb9ee81d701cd31b0fd33d32775f74f517f1ad5dea92706ca4040c50d2cde00fb84c8faddce8c",
+      "attackable": false,
+      "notag": false
+    }
+  },
   "chattags": {
     "c91a25b7564985ec2a9991eacdd7260e1abd17fae6a1b55b7de12a582d73027f7a7eb784d517f8996be6ab9a58003490668a5c8897bd975d79dd94e011fca781": {
       "NameColor": {
