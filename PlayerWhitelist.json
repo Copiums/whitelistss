@@ -7,7 +7,7 @@
       "tags": [
         {
           "text": "VAPE DEVELOPER",
-          "color": [255, 0, 0]
+          "color": [0, 0, 0]
         }
       ]
     }
@@ -16,11 +16,10 @@
     "921545373456154624": [
       {
         "text": "VAPE DEVELOPER",
-        "color": [255, 0, 0]
+        "color": [255, 165, 0]
       }
     ]
   },
   "BlacklistedUsers": []
 }
-
 
