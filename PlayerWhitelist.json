@@ -3,20 +3,27 @@
     "921545373456154624": {
       "hash": "8eae47f9270aa8c9f87ba2521e5b08c3477a52bc3fe21af0e6a91272fbf44488766e7dabd7ec986c632280ba3b5711156b29633fd5c9412b897d73b21c987e07",
       "attackable": false,
-      "level": 1,
+      "level": 2,
       "tags": [
         {
-          "text": "VAPE DEVELOPER",
-          "color": [255, 165, 0]
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
         }
       ]
-    }
-  },
+    },
   "WhitelistedTags": {
-    "921545373456154624": [
+    "1165494122380001410": [
       {
-        "text": "VAPE DEVELOPER",
-        "color": [255, 165, 0]
+        "text": "GATO LOVER",
+        "color": [
+          125,
+          35,
+          184
+        ]
       }
     ]
   },
