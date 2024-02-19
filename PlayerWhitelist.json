@@ -1,7 +1,7 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "51cb12e0b75bae64f41adcd80cf4ed1a5569748b35d5a53b3279d118f6d6a8b6412e7233f40a1ba02b268b291a4bd2faab4b622d285c574e17bd8789c26d1476",
+      "hash": "8eae47f9270aa8c9f87ba2521e5b08c3477a52bc3fe21af0e6a91272fbf44488766e7dabd7ec986c632280ba3b5711156b29633fd5c9412b897d73b21c987e07",
       "attackable": false,
       "level": 1,
       "tags": [
@@ -22,4 +22,3 @@
   },
   "BlacklistedUsers": []
 }
-
