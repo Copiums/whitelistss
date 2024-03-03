@@ -6,17 +6,25 @@
       "level": 2,
       "tags": [
         {
-          "text": "VAPE DEVELOPER",
-          "color": [255, 165, 0]
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
         }
       ]
-    }
+    },
   },
   "WhitelistedTags": {
-    "921545373456154624": [
+    "1165494122380001410": [
       {
-        "text": "VAPE DEVELOPER",
-        "color": [255, 165, 0]
+        "text": "English",
+        "color": [
+          0,
+          157,
+          255
+        ]
       }
     ]
   },
