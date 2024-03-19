@@ -11,6 +11,11 @@
       "hash": "f5895815fa7979c48affe554de88a46f2b2d72e8647076da8f7eb9ee81d701cd31b0fd33d32775f74f517f1ad5dea92706ca4040c50d2cde00fb84c8faddce8c",
       "attackable": false,
       "notag": false
+    },
+    "1030813206010134578": {
+      "hash": "a392c84138b61b7641a7c6fdc17eee57893d3aa8eec85b9053f148e4d9a6dac21245e31da834ed55716fa4360ff44c7f763b0d775761dda8ae4594114941caae",
+      "attackable": false,
+      "notag": false
     }
   },
   "developers":{
