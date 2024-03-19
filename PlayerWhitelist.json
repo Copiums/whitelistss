@@ -6,7 +6,7 @@
       "level": 1,
       "tags": [
         {
-          "text": "VAPE OWNER",
+          "text": "VAPE USER",
           "color": [
             255,
             50,
@@ -17,13 +17,13 @@
     }
   },
   "WhitelistedTags": {
-    "1165494122380001410": [
+    "921545373456154624": [
       {
-        "text": "PISTONWARE",
+        "text": "VAPE USER",
         "color": [
-          0,
-          157,
-          255
+          255,
+          50,
+          50
         ]
       }
     ]
