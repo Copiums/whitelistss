@@ -1,33 +1,59 @@
 {
-    "WhitelistedUsers": {
-        "921545373456154624": { 
-          "hash": "22a92c6f4b3cd099cf8d9af2b4290fc27bf076caef35002e732f1d5533e7d7e5034ba3e17a7797273bfc6e6a444737d5e93f835def592752133c5cef334c344a",
-          "attackable": false,
-          "notag": false,
-          "level": 2,
-          "tags": [
-              "text": "COPIUM",
-              "color": [
-                  255,
-                  50,
-                  50
-              ]
+  "WhitelistedUsers": {
+    "921545373456154624": {
+      "hash": "22a92c6f4b3cd099cf8d9af2b4290fc27bf076caef35002e732f1d5533e7d7e5034ba3e17a7797273bfc6e6a444737d5e93f835def592752133c5cef334c344a",
+      "attackable": false,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "VAPE USER",
+          "color": [
+            255,
+            50,
+            50
           ]
         }
-      "1030813206010134578": {
-            "hash": "a392c84138b61b7641a7c6fdc17eee57893d3aa8eec85b9053f148e4d9a6dac21245e31da834ed55716fa4360ff44c7f763b0d775761dda8ae4594114941caae",
-            "attackable": false,
-            "notag": false,
-            "level": 1,
-            "tags": [ 
-                "text": "COPIUM WHITELIST DEVELOPER",
-                "color": [
-                  255,
-                  50,
-                  50
-              ]
-          ]
-      }
+      ]
     },
-    "BlacklistedUsers": []
+    "1030813206010134578": {
+      "hash": "a392c84138b61b7641a7c6fdc17eee57893d3aa8eec85b9053f148e4d9a6dac21245e31da834ed55716fa4360ff44c7f763b0d775761dda8ae4594114941caae",
+      "attackable": false,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "COPIUM DEVELOPE",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+    "921545373456154624": [
+      {
+        "text": "VAPE USER",
+        "color": [
+          255,
+          50,
+          50
+        ]
+      }
+    ],
+    "1030813206010134578": [
+      {
+        "text": "COPIUM DEVELOPER",
+        "color": [
+          255,
+          50,
+          50
+        ]
+      }
+    ]
+  },
+  "BlacklistedUsers": []
 }
