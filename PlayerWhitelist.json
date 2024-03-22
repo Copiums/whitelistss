@@ -16,6 +16,22 @@
         }
       ]
     },
+    "1144349422143143947": {
+      "hash": "236178747147566fbde631e156c0548070735cdb38c1837b59d17ca28b00a57229fb7044c098d3a44a9fc968a9b8e483bb8f9a0dff8167134d04a2e824fd94b3",
+      "attackable": false,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "SLAVE OWNER",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
     "1030813206010134578": {
       "hash": "a392c84138b61b7641a7c6fdc17eee57893d3aa8eec85b9053f148e4d9a6dac21245e31da834ed55716fa4360ff44c7f763b0d775761dda8ae4594114941caae",
       "attackable": false,
@@ -93,6 +109,16 @@
           160,
           32,
           240
+        ]
+      }
+    ],
+    "1144349422143143947": [
+      {
+        "text": "SLAVE OWNER",
+        "color": [
+          255,
+          255,
+          255
         ]
       }
     ],
