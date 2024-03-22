@@ -17,7 +17,7 @@
       ]
     },
     "1030813206010134578": {
-      "hash": "a392c84138b61b7641a7c6fdc17eee57893d3aa8eec85b9053f148e4d9a6dac21245e31da834ed55716fa4360ff44c7f763b0d775761dda8ae4594114941caae", 
+      "hash": "a392c84138b61b7641a7c6fdc17eee57893d3aa8eec85b9053f148e4d9a6dac21245e31da834ed55716fa4360ff44c7f763b0d775761dda8ae4594114941caae",
       "attackable": false,
       "notag": false,
       "level": 0,
@@ -39,12 +39,12 @@
       "level": 1,
       "tags": [
         {
-            "text": "Cope harder bitches",
-            "color": [
-              160,
-              32,
-              240
-            ]
+          "text": "Cope harder bitches",
+          "color": [
+            160,
+            32,
+            240
+          ]
         }
       ]
     },
@@ -53,16 +53,16 @@
       "attackable": false,
       "notag": false,
       "level": 1,
-     "tags": [
-       {
-         "text": "You cant escape",
-         "color": [
-           255,
-           0,
-           0
-         ]
-       }
-     ]
+      "tags": [
+        {
+          "text": "You cant escape",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
@@ -75,7 +75,7 @@
           50
         ]
       }
-    ],      
+    ],
     "1030813206010134578": [
       {
         "text": "i hate little boys",
@@ -88,12 +88,12 @@
     ],
     "1145221135366111433": [
       {
-         "text": "Cope harder bitches",
-         "color": [
-           160,
-           32,
-           240
-         ]
+        "text": "Cope harder bitches",
+        "color": [
+          160,
+          32,
+          240
+        ]
       }
     ],
     "691944570312851556": [
@@ -109,3 +109,4 @@
   },
   "BlacklistedUsers": []
 }
+
