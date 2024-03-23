@@ -16,22 +16,6 @@
         }
       ]
     },
-    "921545373456154624": {
-      "hash": "db37bb347687a2933bba20c4a076c2db6c37f79f868b4a9eb09e2791eba8b34308a3c0fa7f09052aadd334e8aebcc8f8a686fa1ea94ef1ff7913b8f6742c8c24",
-      "attackable": false,
-      "notag": false,
-      "level": 0,
-      "tags": [
-        {
-          "text": "FUCK ALL SKIDSPLOIT",
-          "color": [
-            255,
-            50,
-            50
-          ]
-        }
-      ]
-    },
     "1144349422143143947": {
       "hash": "236178747147566fbde631e156c0548070735cdb38c1837b59d17ca28b00a57229fb7044c098d3a44a9fc968a9b8e483bb8f9a0dff8167134d04a2e824fd94b3",
       "attackable": false,
@@ -98,16 +82,6 @@
     }
   },
   "WhitelistedTags": {
-    "921545373456154624": [
-      {
-        "text": "FUCK ALL SKIDSPLOIT",
-        "color": [
-          255,
-          50,
-          50
-        ]
-      }
-    ],
     "1030813206010134578": [
       {
         "text": "COPIUM DEVELOPER",
