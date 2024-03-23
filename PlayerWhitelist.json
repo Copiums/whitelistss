@@ -50,7 +50,7 @@
     },
     "1145221135366111433": {
       "hash": "63b1ed2011947784bdd45c421af12d8b9f6872adddd0e6f2af1db53c5b5725cd62c7ade3250a8c24cbb2cd79609d69a5062dae9b50d26d4eec3f0e57e176e943",
-      "attackable": false,
+      "attackable": true,
       "notag": false,
       "level": 1,
       "tags": [
@@ -82,7 +82,7 @@
     },
     "947589361501880401": {
       "hash": "41fe70ca8e816514e6dbeb7cba3fced0dd8774859beab0186ebd7ff8c0abafd3e8aa775f2cae1bbc96f7d97f777dcc4d149bd07d7a61dd916b4ecb623446c203",
-      "attackable": false,
+      "attackable": true,
       "notag": false,
       "level": 1,
       "tags": [
@@ -93,6 +93,22 @@
              32,
              240
            ]
+        }
+      ]
+    },
+    "1167626649362235434": {
+      "hash": "a3ffe62c0ba4bb2ed0458a45c1102c26976c81b4fedc945c9d97640b68657094fcd54f26825aa6c3802a30e314193645dd917a4fe54876fd97da31849327d7e3",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VELOCITY PRIVATE USER",
+          "color": [
+            160,
+            32,
+            240
+          ]
         }
       ]
     }
@@ -151,6 +167,16 @@
     "947589361501880401": [
       {
        "text": "VELOCITY+",
+        "color": [
+          160,
+          32,
+          240
+        ]
+      }
+    ],
+    "1167626649362235434": [
+      {
+        "text": "VELOCITY PRIVATE USER",
         "color": [
           160,
           32,
