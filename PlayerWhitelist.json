@@ -52,6 +52,7 @@
       "hash": "80501e2b701075a1f67e4e6f3ed9b4ad2b51ba4c9712c97ed27a9a82befa8a2c710d33680fbf0d949484aa91a54821da7c284a35e176cb56f12024f01ef65603",
       "attackable": false,
       "notag": false,
+      "level": 2,
       "tags": [
         {
           "text": "VELOCITY OWNER",
