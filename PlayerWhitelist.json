@@ -52,7 +52,6 @@
       "hash": "80501e2b701075a1f67e4e6f3ed9b4ad2b51ba4c9712c97ed27a9a82befa8a2c710d33680fbf0d949484aa91a54821da7c284a35e176cb56f12024f01ef65603",
       "attackable": false,
       "notag": false,
-      "level": 2,
       "tags": [
         {
           "text": "VELOCITY OWNER",
@@ -63,7 +62,7 @@
           ]
         }
       ]
-    }
+    },
     "1145221135366111433": {
       "hash": "63b1ed2011947784bdd45c421af12d8b9f6872adddd0e6f2af1db53c5b5725cd62c7ade3250a8c24cbb2cd79609d69a5062dae9b50d26d4eec3f0e57e176e943",
       "attackable": true,
@@ -213,4 +212,3 @@
   },
   "BlacklistedUsers": []
 }
-
