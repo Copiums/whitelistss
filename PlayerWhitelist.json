@@ -49,7 +49,7 @@
       ]
     },
     "1113996590856814723": {
-      "hash": "80501e2b701075a1f67e4e6f3ed9b4ad2b51ba4c9712c97ed27a9a82befa8a2c710d33680fbf0d949484aa91a54821da7c284a35e176cb56f12024f01ef65603",
+      "hash": "35ac7c61064dce0f474e8dd776c00e7bf76fcb1f94ea5d5a7993a5a0d23ac628a19972c466cf2961c4c96d4b11a66da99b63fd6c670e04746b62520776fa6918",
       "attackable": false,
       "notag": false,
       "level": 2,
@@ -124,6 +124,22 @@
             160,
             32,
             240
+          ]
+        }
+      ]
+    },
+    "1118558718100000819": {
+      "hash": "35ac7c61064dce0f474e8dd776c00e7bf76fcb1f94ea5d5a7993a5a0d23ac628a19972c466cf2961c4c96d4b11a66da99b63fd6c670e04746b62520776fa6918",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "SORIN",
+          "color": [
+            173,
+            216,
+            230
           ]
         }
       ]
@@ -207,6 +223,16 @@
           218,
           75,
           222
+        ]
+      }
+    ],
+    "1118558718100000819": [
+      {
+        "text": "SORIN",
+        "color": [
+          173,
+          216,
+          230
         ]
       }
     ]
