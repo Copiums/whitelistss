@@ -7,11 +7,11 @@
       "level": 2,
       "tags": [
         {
-          "text": "VAPE USER",
+          "text": "AC MOD",
           "color": [
-            255,
-            255,
-            255
+            93,
+            4,
+            129
           ]
         }
       ]
@@ -25,9 +25,9 @@
         {
           "text": "AC MOD",
           "color": [
-            136,
-            18,
-            232
+            93,
+            4,
+            129
           ]
         }
       ]
@@ -164,21 +164,21 @@
   "WhitelistedTags": {
     "921545373456154624": [
       {
-        "text": "VAPE USER",
+        "text": "AC MOD",
         "color": [
-          255,
-          50,
-          50
+          93,
+          4,
+          129
         ]
       }
     ],
     "1030813206010134578": [
       {
-        "text": "COPIUM DEVELOPER",
+        "text": "AC MOD",
         "color": [
-          169,
-          204,
-          227
+          93,
+          4,
+          129
         ]
       }
     ],
