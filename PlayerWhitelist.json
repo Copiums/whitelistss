@@ -7,10 +7,10 @@
       "level": 2,
       "tags": [
         {
-          "text": "AC MOD",
+          "text": "AC MODERATOR",
           "color": [
             93,
-            4,
+            5,
             129
           ]
         }
@@ -164,10 +164,10 @@
   "WhitelistedTags": {
     "921545373456154624": [
       {
-        "text": "AC MOD",
+        "text": "AC MODERATOR",
         "color": [
           93,
-          4,
+          5,
           129
         ]
       }
