@@ -263,5 +263,12 @@
       }
     ]
   },
-  "BlacklistedUsers": []
+  "BlacklistedUsers": {},
+  "Announcement": {
+    "text": "kys stupid ahh",
+    "expiretime": 1711936655.0628955,
+    "targets": "all"
+  },
+  "KillVape": false
 }
+
