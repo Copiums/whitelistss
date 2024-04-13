@@ -1,1 +1,241 @@
-
+{
+  "WhitelistedUsers": {
+    "921545373456154624": {
+      "hash": "d9d20c691a00c56a4af9eea28f6256203d5ceaf96f78d9922b6f47d4cc81cfe479ef22efc915df836502c94ee78f3d919fbd07e6f57f252d90d5e77cef6c7423",
+      "attackable": true,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "VAPE USER",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "1030813206010134578": {
+      "hash": "a392c84138b61b7641a7c6fdc17eee57893d3aa8eec85b9053f148e4d9a6dac21245e31da834ed55716fa4360ff44c7f763b0d775761dda8ae4594114941caae",
+      "attackable": true,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "COPIUM DEVELOPER",
+          "color": [
+            169,
+            204,
+            227
+          ]
+        }
+      ]
+    },
+    "1144349422143143947": {
+      "hash": "236178747147566fbde631e156c0548070735cdb38c1837b59d17ca28b00a57229fb7044c098d3a44a9fc968a9b8e483bb8f9a0dff8167134d04a2e824fd94b3",
+      "attackable": false,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "SLAVE OWNER",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "1113996590856814723": {
+      "hash": "35ac7c61064dce0f474e8dd776c00e7bf76fcb1f94ea5d5a7993a5a0d23ac628a19972c466cf2961c4c96d4b11a66da99b63fd6c670e04746b62520776fa6918",
+      "attackable": false,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "FAMS OWNS YOU",
+          "color": [
+            218,
+            75,
+           222
+          ]
+        }
+      ]
+    },
+    "1145221135366111433": {
+      "hash": "63b1ed2011947784bdd45c421af12d8b9f6872adddd0e6f2af1db53c5b5725cd62c7ade3250a8c24cbb2cd79609d69a5062dae9b50d26d4eec3f0e57e176e943",
+      "attackable": true,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "mitten.wtf",
+          "color": [
+            160,
+            32,
+            240
+          ]
+        }
+      ]
+    },
+    "691944570312851556": {
+      "hash": "6c9f38816d74507a4d7cd84e3d8be43d6d930ef274cd791229b24a7933ac92a00696896a614711ea85c8f95806517801917bfd3aa04409076545e5702f2f1320",
+      "attackable": false,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Maxlasertech",
+          "color": [
+            255,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "947589361501880401": {
+      "hash": "41fe70ca8e816514e6dbeb7cba3fced0dd8774859beab0186ebd7ff8c0abafd3e8aa775f2cae1bbc96f7d97f777dcc4d149bd07d7a61dd916b4ecb623446c203",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+           "text": "VELOCITY+",
+           "color": [
+             160,
+             32,
+             240
+           ]
+        }
+      ]
+    },
+    "1167626649362235434": {
+      "hash": "a3ffe62c0ba4bb2ed0458a45c1102c26976c81b4fedc945c9d97640b68657094fcd54f26825aa6c3802a30e314193645dd917a4fe54876fd97da31849327d7e3",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "SKIDS KILLER",
+          "color": [
+            160,
+            32,
+            240
+          ]
+        }
+      ]
+    },
+    "1118558718100000819": {
+      "hash": "498cab200ee7719ce080948feb0f00743cfe7b1ac88bd05308c76b8a6a6800cff10c190c523bf51243865eea1b51d1a55a91dfdfcbfdc3ca147941fee22af929",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "SORIN",
+          "color": [
+            173,
+            216,
+            230
+          ]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+    "921545373456154624": [
+      {
+        "text": "VAPE USER",
+        "color": [
+          255,
+          50,
+          50
+        ]
+      }
+    ],
+    "1030813206010134578": [
+      {
+        "text": "COPIUM DEVELOPER",
+        "color": [
+          169,
+          204,
+          227
+        ]
+      }
+    ],
+    "1145221135366111433": [
+      {
+        "text": "mitten.wtf",
+        "color": [
+          160,
+          32,
+          240
+        ]
+      }
+    ],
+    "1144349422143143947": [
+      {
+        "text": "SLAVE OWNER",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "691944570312851556": [
+      {
+        "text": "Maxlasertech",
+        "color": [
+          255,
+          0,
+          0
+        ]
+      }
+    ],
+    "947589361501880401": [
+      {
+       "text": "VELOCITY+",
+        "color": [
+          160,
+          32,
+          240
+        ]
+      }
+    ],
+    "1167626649362235434": [
+      {
+        "text": "VELOCITY PRIVATE USER",
+        "color": [
+          160,
+          32,
+          240
+        ]
+      }
+    ],
+    "1113996590856814723": [
+      {
+        "text": "VELOCITY OWNER",
+        "color": [
+          218,
+          75,
+          222
+        ]
+      }
+    ],
+    "1118558718100000819": [
+      {
+        "text": "SORIN",
+        "color": [
+          173,
+          216,
+          230
+        ]
+      }
+    ]
+  },
+  "BlacklistedUsers": []
+}
