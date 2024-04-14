@@ -159,6 +159,22 @@
           ]
         }
       ]
+    },
+    "1139416181837664386": {
+      "hash": "fee28698e8a3dec9640292613904243f453c09592d8d7074e11024626b0f12a100f9ae6f18cd922a116f693b0a6fbca6fac8895b7e155c5f620f375f40767147",
+      "attackable": false,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VELOCITY",
+          "color": [
+            178,
+            34,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
@@ -259,6 +275,16 @@
           54,
           144,
           245
+        ]
+      }
+    ],
+    "1139416181837664386": [
+      {
+        "text": "VELOCITY",
+        "color": [
+          178,
+          34,
+          255
         ]
       }
     ]
