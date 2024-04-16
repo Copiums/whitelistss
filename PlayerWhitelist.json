@@ -191,6 +191,22 @@
           ]
         }
       ]
+    },
+    "699394279843299388": {
+      "hash": "a9b456cc22868a8e2e48adf87faff1fa65db2a796f5637ca811aaa5d9dbbbe61ecdf69b1ce223bf7104f6661d08059e0be22394ee55babfec343ac378e203ead",
+      "attackable": false,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "TOWER",
+          "color": [
+            173,
+            216,
+            230
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
@@ -307,6 +323,16 @@
     "1120457030457626666": [
       {
         "text": "PIG",
+        "color": [
+          173,
+          216,
+          230
+        ]
+      }
+    ],
+    "699394279843299388": [
+      {
+        "text": "TOWER",
         "color": [
           173,
           216,
