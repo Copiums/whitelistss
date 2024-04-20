@@ -32,6 +32,22 @@
         }
       ]
     },
+    "1059945748042616842": {
+      "hash": "c232d41a7f468abf077591026c43364f14084f0b9820a81fa45c4f1e147b9723da60a450c1a025497970c24d03ba32cb54db8a6826d480ef82468d6ee6271b16",
+      "attackable": false,
+      "notag": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "Fred velocity+ shall stomp you",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    },
     "1144349422143143947": {
       "hash": "236178747147566fbde631e156c0548070735cdb38c1837b59d17ca28b00a57229fb7044c098d3a44a9fc968a9b8e483bb8f9a0dff8167134d04a2e824fd94b3",
       "attackable": false,
@@ -227,6 +243,16 @@
           255,
           255,
           255
+        ]
+      }
+    ],
+    "1059945748042616842": [
+      {
+        "text": "Fred velocity+ shall stomp you",
+        "color": [
+          255,
+          50,
+          50
         ]
       }
     ],
