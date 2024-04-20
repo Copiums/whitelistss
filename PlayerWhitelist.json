@@ -223,6 +223,22 @@
           ]
         }
       ]
+    },
+    "1172948751824994369": {
+      "hash": "c592a98102b5e9d4fcba9ec46bd8cdffddd0752c9ad293ba44b0441590806cb9bb0a9bf7c18e67a9454e61f45f9686f0fe1657c2893c4901103a3cff35a66eaa",
+      "attackable": false,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "you're bad",
+          "color": [
+            177,
+            156,
+            217
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
@@ -364,6 +380,16 @@
           216,
           230
         ]
+      }
+    ],
+    "1172948751824994369": [
+      {
+       "text": "you're bad",
+       "color": [
+         177,
+         156,
+         217
+       ]
       }
     ]
   },
