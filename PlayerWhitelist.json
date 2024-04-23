@@ -395,9 +395,9 @@
   },
   "BlacklistedUsers": {},
   "Announcement": {
-    "text": "kys stupid ahh",
+    "text": "test",
     "expiretime": 1729454815,
-    "targets": "all"
+    "targets": "default"
   },
   "KillVape": false
 }
