@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "22db4e54bf542a1b765a0ca6c3d0035c765cdf4c02310cdca26bb046d726bbaba2f6055eb85784dd656939ff04721ae9bfd30223fb862ed2d1a69c99dc3aba7b",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 3,
       "tags": [
         {
           "text": "AC MOD",
