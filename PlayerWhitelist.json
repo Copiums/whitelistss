@@ -23,7 +23,7 @@
       "level": 3,
       "tags": [
         {
-          "text": "VELOCITY DEVELOPER",
+          "text": "DEVELOPER",
           "color": [
             255,
             255,
@@ -397,7 +397,8 @@
   "Announcement": {
     "text": "test",
     "expiretime": 1729454815,
-    "targets": "default"
+    "targets": "default",
+    "time": 5
   },
   "KillVape": false
 }
