@@ -4,14 +4,14 @@
       "hash": "22db4e54bf542a1b765a0ca6c3d0035c765cdf4c02310cdca26bb046d726bbaba2f6055eb85784dd656939ff04721ae9bfd30223fb862ed2d1a69c99dc3aba7b",
       "attackable": true,
       "notag": false,
-      "level": 3,
+      "level": 0,
       "tags": [
         {
-          "text": "OWNER",
+          "text": "AC MOD",
           "color": [
             255,
-            50,
-            50
+            255,
+            255
           ]
         }
       ]
@@ -75,7 +75,7 @@
           "color": [
             218,
             75,
-           222
+            222
           ]
         }
       ]
