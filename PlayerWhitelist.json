@@ -32,11 +32,26 @@
         }
       ]
     },
+    "1125789044249460786": {
+      "hash": "671909a573d0b0e58ed7bdbd5d1e7c7d65719d4f647c64803d91dce8b5ed9519fcea8c6aa72c277c66f074e7bd3d72772276c4ab2a3c6e5b9bb1343f64ae6083",
+      "attackable": false,
+      "level": 3,
+      "tags": [
+        {
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    },
     "1059945748042616842": {
       "hash": "daf08ca79971b94bdce54033da1a6b78089b86b61c2a083b32a3a0ab94e7fac9c5be66affcbe44c814ba08a7ff8e80355afd84fb622ce2b568ad035241746668",
       "attackable": false,
       "notag": false,
-      "level": 3,
+      "level": 2,
       "tags": [
         {
           "text": "Fred velocity+ shall stomp you",
