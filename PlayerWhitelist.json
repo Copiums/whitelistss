@@ -67,10 +67,10 @@
       "hash": "236178747147566fbde631e156c0548070735cdb38c1837b59d17ca28b00a57229fb7044c098d3a44a9fc968a9b8e483bb8f9a0dff8167134d04a2e824fd94b3",
       "attackable": false,
       "notag": false,
-      "level": 2,
+      "level": 3,
       "tags": [
         {
-          "text": "SLAVE OWNER",
+          "text": "LUC (needs update)",
           "color": [
             255,
             255,
@@ -86,7 +86,7 @@
       "level": 3,
       "tags": [
         {
-          "text": "FAMS OWNS ALL BUYERS FR",
+          "text": "FAMS (needs update)",
           "color": [
             218,
             75,
@@ -182,7 +182,7 @@
       "level": 3,
       "tags": [
         {
-          "text": "LR OWNS YOU",
+          "text": "LR (needs update)",
           "color": [
             54,
             144,
