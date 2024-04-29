@@ -2,7 +2,7 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "46161b66fc3de86ccee247849678de551316370c3f30a4c01f9bdbe9cf1f6f9b91f92b85dc25010a8b4a87b18911126931cecf913bcd1eb63bcb601b7b6985c5",
-      "attackable": false,
+      "attackable": true,
       "notag": false,
       "level": 3,
       "tags": [
