@@ -18,9 +18,9 @@
     },
     "1030813206010134578": {
       "hash": "fdc672f6cbc3d080a9934ac18738bda6a8bd128bae497f3c8b2ed171a2a1b97ea5fbf6705142960b252b6ca9e72690f95392270b031ebf20dcc9554eae5e420a",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 2,
+      "level": 0,
       "tags": [
         {
           "text": "DEVELOPER",
