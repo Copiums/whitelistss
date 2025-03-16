@@ -17,7 +17,7 @@
       ]
     },
     "1030813206010134578": {
-      "hash": "f894a7e171be5c96708bc49207f949f58d903b09eccc2bfbedaecf5856d75d4c13430f6b096abf68a39581f4f80611456c8dafd1d09899dcaa5f5de964a8092f",
+      "hash": "a4dd249ec981ca39c8756f0ddbf68e648b20b771199576d55453857347073b2d456e0e0ee63e7d247c0354a2708c53c8ff586acc3b7f1c27dc7774e35f9c5921",
       "attackable": false,
       "notag": false,
       "level": 3,
@@ -411,7 +411,7 @@
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "sammz code was aids!!!!",
-    "expiretime": 1729454815,
+    "expiretime": 1742323027,
     "targets": "default",
     "time": 15
   },
