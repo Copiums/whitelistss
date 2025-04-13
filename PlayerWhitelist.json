@@ -224,17 +224,17 @@
       ]
     },
     "699394279843299388": {
-      "hash": "a9b456cc22868a8e2e48adf87faff1fa65db2a796f5637ca811aaa5d9dbbbe61ecdf69b1ce223bf7104f6661d08059e0be22394ee55babfec343ac378e203ead",
-      "attackable": false,
+      "hash": "18050e0d8730629bfa7cdfee2bb0bd5cdff7a70fede5f6995f9050ce83623fac5716918ba06be9656559d3dbca7fe6fac35cf0fdb2de2bdd0dcfbf3b656dca8a",
+      "attackable": true,
       "notag": false,
       "level": 1,
       "tags": [
         {
-          "text": "!87ur",
+          "text": "tower",
           "color": [
-            173,
-            216,
-            230
+            0,
+            0,
+            0
           ]
         }
       ]
