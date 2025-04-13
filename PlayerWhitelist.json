@@ -1,17 +1,17 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "af7f39f2c3b4f1a5638eb1cf52135be60d177bff4335586814d62908000c3fdc3145a23cc53decba72b73d93fa77be853e39d476494e80913d1d6b20ece46e2d",
+      "hash": "b8d8eb0ffabef98852edb265872ac8bec75b803d1eb3bbd6b25fabb4173eeedd3481a1785d94f1a3c71e45531cac6fa6f6d06442530347ec28dc1b5b600e9b82",
       "attackable": true,
       "notag": false,
       "level": 0,
       "tags": [
         {
-          "text": "AC MODS",
+          "text": "AC Mod",
           "color": [
-            160,
-            32,
-            240
+            null,
+            255,
+            255
           ]
         }
       ]
@@ -134,12 +134,12 @@
       "level": 1,
       "tags": [
         {
-           "text": "VELOCITY+",
-           "color": [
-             160,
-             32,
-             240
-           ]
+          "text": "VELOCITY+",
+          "color": [
+            160,
+            32,
+            240
+          ]
         }
       ]
     },
@@ -319,7 +319,7 @@
     ],
     "947589361501880401": [
       {
-       "text": "VELOCITY+",
+        "text": "VELOCITY+",
         "color": [
           160,
           32,
@@ -399,12 +399,12 @@
     ],
     "1172948751824994369": [
       {
-       "text": "you're bad",
-       "color": [
-         177,
-         156,
-         217
-       ]
+        "text": "you're bad",
+        "color": [
+          177,
+          156,
+          217
+        ]
       }
     ]
   },
