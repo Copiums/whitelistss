@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "7945c16454bb6951ca1ea68bd7a78cf9a909bb64642b6779cc6c23e8d54daaa3eb36af481dd4b163e3fe650481c6d90075eb42d26a9b44031377c1cfdc63834b",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 3,
       "tags": [
         {
           "text": "Black",
