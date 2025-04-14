@@ -1,13 +1,12 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "b8d8eb0ffabef98852edb265872ac8bec75b803d1eb3bbd6b25fabb4173eeedd3481a1785d94f1a3c71e45531cac6fa6f6d06442530347ec28dc1b5b600e9b82",
-      "attackable": false,
+      "attackable": true,
       "notag": false,
-      "level": 3,
+      "level": 0,
       "tags": [
         {
-          "text": "AC MOD",
+          "text": "ROBLOX",
           "color": [
             255,
             255,
