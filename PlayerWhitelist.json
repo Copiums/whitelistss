@@ -282,6 +282,20 @@
           ]
         }
       ]
+    },
+    "972549700655939704": {
+      "hash": "c323fcb43b32cdd0700fdbefe2ff82c14f45b2d3f4fe903553e4eff2d9fb4ac66b2e3666ac080c1dacb6a74f43fb3aee8265fe5ac09ef35d1f25b022065cbcc4",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "5",
+          "color": [
+            5
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
