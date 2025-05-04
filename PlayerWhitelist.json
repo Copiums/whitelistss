@@ -17,13 +17,13 @@
       ]
     },
     "1030813206010134578": {
-      "hash": "a4dd249ec981ca39c8756f0ddbf68e648b20b771199576d55453857347073b2d456e0e0ee63e7d247c0354a2708c53c8ff586acc3b7f1c27dc7774e35f9c5921",
-      "attackable": false,
+      "hash": "f0fc93023b5fc5bcd2b13a0726e89c39cf27344c99816e020583aba859f85b3873ff6316b67cc2b9057cac59ae53130c46f8c54a88424b21abed33a0e91d9e6a",
+      "attackable": true,
       "notag": false,
-      "level": 3,
+      "level": 1,
       "tags": [
         {
-          "text": "DEVELOPER",
+          "text": "dev",
           "color": [
             255,
             255,
