@@ -296,6 +296,22 @@
           ]
         }
       ]
+    },
+    "1030813206010134578": {
+      "hash": "026c90f4f8ff993d10bdbbd68d041dcfc2fe25e2c0d66f73c9e25cb2875a137471e8eac75118dd440422b344cef6a056c3ccaa709befc87b87d186c4dffebf59",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Velocity Developer",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
