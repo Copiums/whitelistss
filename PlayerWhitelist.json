@@ -127,7 +127,7 @@
     },
     "1167626649362235434": {
       "hash": "a3ffe62c0ba4bb2ed0458a45c1102c26976c81b4fedc945c9d97640b68657094fcd54f26825aa6c3802a30e314193645dd917a4fe54876fd97da31849327d7e3",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
       "level": 1,
       "tags": [
