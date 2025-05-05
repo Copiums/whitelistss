@@ -296,6 +296,22 @@
           ]
         }
       ]
+    },
+    "1092428331993006231": {
+      "hash": "74e7e2b43d3266ad93ad28dc31d6e15436cd14f5cb8f74b4ed601fe51cfdcea3a69f464274e14b940c9dbdccd3ae6c73fa75d3abe6481b4b82b07cdd907dd48b",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Jayden",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
