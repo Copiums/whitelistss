@@ -19,8 +19,8 @@
     "1030813206010134578": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "attackable": true,
-      "notag": false,
-      "level": 1,
+      "notag": true,
+      "level": 0,
       "tags": [
         {
           "text": "s",
