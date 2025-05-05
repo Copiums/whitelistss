@@ -16,22 +16,6 @@
         }
       ]
     },
-    "1030813206010134578": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
-      "attackable": true,
-      "notag": false,
-      "level": 0,
-      "tags": [
-        {
-          "text": "s",
-          "color": [
-            255,
-            255,
-            255
-          ]
-        }
-      ]
-    },
     "1125789044249460786": {
       "hash": "943875d44f2c167d68d866722ec560b3251d4abb95566771ea0911c40e4c4f67c9ea364d60575e6a5f81f2b173f8331fc3222f3949faeae57620496b9ee09185",
       "attackable": false,
