@@ -17,13 +17,13 @@
       ]
     },
     "1030813206010134578": {
-      "hash": "f0fc93023b5fc5bcd2b13a0726e89c39cf27344c99816e020583aba859f85b3873ff6316b67cc2b9057cac59ae53130c46f8c54a88424b21abed33a0e91d9e6a",
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "attackable": true,
       "notag": false,
       "level": 1,
       "tags": [
         {
-          "text": "dev",
+          "text": "s",
           "color": [
             255,
             255,
