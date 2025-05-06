@@ -299,9 +299,9 @@
     },
     "1030813206010134578": {
       "hash": "f0fc93023b5fc5bcd2b13a0726e89c39cf27344c99816e020583aba859f85b3873ff6316b67cc2b9057cac59ae53130c46f8c54a88424b21abed33a0e91d9e6a",
-      "attackable": true,
-      "notag": false,
-      "level": 1,
+      "attackable": false,
+      "notag": true,
+      "level": 3,
       "tags": [
         {
           "text": "VELO DEV",
