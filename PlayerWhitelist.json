@@ -126,13 +126,13 @@
       ]
     },
     "1167626649362235434": {
-      "hash": "a3ffe62c0ba4bb2ed0458a45c1102c26976c81b4fedc945c9d97640b68657094fcd54f26825aa6c3802a30e314193645dd917a4fe54876fd97da31849327d7e3",
-      "attackable": false,
+      "hash": "111b96222b029225d681f66700d37f0e74ca89d69b02890fdeb956b39e13409e0fc2b1101192c7ab56714622b998c13627b6b89369b950bcf93c55bfa7d954b0",
+      "attackable": true,
       "notag": false,
       "level": 1,
       "tags": [
         {
-          "text": "SKIDS KILLER",
+          "text": "hey guys",
           "color": [
             160,
             32,
