@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "c2cadfe6c1b9d841e50bf7a534a7c82c430a1809835bf54fa5c766604d853117c89b1e92a560fae8684f2591355479c57098cbe949e7cef90e5b8facd01d3dae",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 999,
       "tags": [
         {
           "text": "VAPE OWNER",
