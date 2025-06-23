@@ -1,7 +1,7 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "58c81dec79fe3e6ea6239e4a7e6d4a0dcd066966f61e4ad78e842a95d13d4263e30c55e5eece540049dfa2f8354226e2a396d3a9bd2d7e7c03785a65cbfaf949",
+      "hash": "fa3e4aed1ea8025d077e4323624ab3cc1d531dd660e9da929f225b2c6cfb9260631fdf94e6e4f8278c81dc25e4d8e56838ff97a3d0aaf4d5e07a3d6164521f09",
       "attackable": true,
       "notag": false,
       "level": 0,
@@ -9,9 +9,9 @@
         {
           "text": "chigga",
           "color": [
-            255,
-            124,
-            107
+            0,
+            0,
+            3
           ]
         }
       ]
