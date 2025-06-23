@@ -254,13 +254,13 @@
       ]
     },
     "1353137578257158204": {
-      "hash": "88bb4bc91f85681a32a975e0a0cb710a16064741cd44ed83ad4924acf36244f2c3d8dd279e7055e8e7f731d603915243e401a22a4b16aebe477ae34f81e054e1",
+      "hash": "1963712dbc1fe5cab6eff9e96422e95de1958db952645472e700a53edefe92397f5a8e09919a1c82c7c94d77abb12cd0bc23e988bdaf0f1d8498ee49d068358a",
       "attackable": true,
-      "notag": true,
-      "level": 2,
+      "notag": false,
+      "level": 1,
       "tags": [
         {
-          "text": "roblox",
+          "text": "2",
           "color": [
             null
           ]
