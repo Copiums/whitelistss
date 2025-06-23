@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "fa3e4aed1ea8025d077e4323624ab3cc1d531dd660e9da929f225b2c6cfb9260631fdf94e6e4f8278c81dc25e4d8e56838ff97a3d0aaf4d5e07a3d6164521f09",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 999,
       "tags": [
         {
           "text": "chigga",
