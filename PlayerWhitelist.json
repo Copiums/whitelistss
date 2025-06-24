@@ -1,17 +1,17 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "fa3e4aed1ea8025d077e4323624ab3cc1d531dd660e9da929f225b2c6cfb9260631fdf94e6e4f8278c81dc25e4d8e56838ff97a3d0aaf4d5e07a3d6164521f09",
-      "attackable": false,
+      "hash": "038e00bfd6db7bb49d32de981d4ce041dbdf9e9bb2796d7105c67be6429492b0690e3e4b412363132ae0ef594cd625e45027379e8b9a55c5cd127d0de731b7fa",
+      "attackable": true,
       "notag": false,
-      "level": 999,
+      "level": 0,
       "tags": [
         {
-          "text": "chigga",
+          "text": "VELO OWNER",
           "color": [
-            0,
-            0,
-            3
+            255,
+            255,
+            255
           ]
         }
       ]
