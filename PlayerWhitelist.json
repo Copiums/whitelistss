@@ -262,7 +262,9 @@
         {
           "text": "VAPE PRIVATE",
           "color": [
-            null
+            157,
+            0,
+            255
           ]
         }
       ]
