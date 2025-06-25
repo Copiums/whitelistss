@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "4f508ff5cf10d78a11a013d85b238b7c940ff91a13ee683074f27b8d14074ba30de78c93bb9495dad91030e50b1d6950bd3a7b4e7e8292337c33c2016f7cdd9f",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 3,
       "tags": [
         {
           "text": "erm what the sigma",
