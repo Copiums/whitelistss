@@ -1,17 +1,17 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "038e00bfd6db7bb49d32de981d4ce041dbdf9e9bb2796d7105c67be6429492b0690e3e4b412363132ae0ef594cd625e45027379e8b9a55c5cd127d0de731b7fa",
+      "hash": "4f508ff5cf10d78a11a013d85b238b7c940ff91a13ee683074f27b8d14074ba30de78c93bb9495dad91030e50b1d6950bd3a7b4e7e8292337c33c2016f7cdd9f",
       "attackable": true,
       "notag": false,
-      "level": 3,
+      "level": 0,
       "tags": [
         {
-          "text": "VELO OWNER",
+          "text": "erm what the sigma",
           "color": [
-            255,
-            255,
-            255
+            234,
+            221,
+            202
           ]
         }
       ]
