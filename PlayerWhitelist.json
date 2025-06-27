@@ -1,17 +1,17 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "4f508ff5cf10d78a11a013d85b238b7c940ff91a13ee683074f27b8d14074ba30de78c93bb9495dad91030e50b1d6950bd3a7b4e7e8292337c33c2016f7cdd9f",
-      "attackable": false,
+      "hash": "d7baa1e3a0a4784e7df37af94d9e26e85e95240e147c7dfa597862b54c60f63db8568c1a3bf80b7b7ce5720c2845bb3f6c8376386d6cba006ce1df12b2eb4d68",
+      "attackable": true,
       "notag": false,
-      "level": 3,
+      "level": 0,
       "tags": [
         {
-          "text": "erm what the sigma",
+          "text": "VELOCITY OWNER",
           "color": [
-            234,
-            221,
-            202
+            52,
+            88,
+            235
           ]
         }
       ]
