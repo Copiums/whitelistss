@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "d7baa1e3a0a4784e7df37af94d9e26e85e95240e147c7dfa597862b54c60f63db8568c1a3bf80b7b7ce5720c2845bb3f6c8376386d6cba006ce1df12b2eb4d68",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 9999,
       "tags": [
         {
           "text": "VELOCITY OWNER",
