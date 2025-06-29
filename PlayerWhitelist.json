@@ -1,17 +1,17 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "d7baa1e3a0a4784e7df37af94d9e26e85e95240e147c7dfa597862b54c60f63db8568c1a3bf80b7b7ce5720c2845bb3f6c8376386d6cba006ce1df12b2eb4d68",
-      "attackable": false,
+      "hash": "83e0e930f98d0ac07e75393e125ac0bf7aec5737f710103206a92ec3f3e17dd4b10b0bc222231adfa8a45ad8889f2dad2f09a0f7861890bca0435d9da10b293a",
+      "attackable": true,
       "notag": false,
-      "level": 9999,
+      "level": 0,
       "tags": [
         {
-          "text": "VELOCITY OWNER",
+          "text": "VAPE OWNER",
           "color": [
-            52,
-            88,
-            235
+            0,
+            0,
+            1
           ]
         }
       ]
