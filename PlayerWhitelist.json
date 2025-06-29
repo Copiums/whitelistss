@@ -256,8 +256,8 @@
     "1353137578257158204": {
       "hash": "79aaf78cdac7df3c6c9428b777cbf03f565e980e992ac30e38980db8d5eace0a344be157812593c545bd0b7f9b7d618048acc77bf65f3e1e7234bb429b98502f",
       "attackable": true,
-      "notag": false,
-      "level": 1,
+      "notag": null,
+      "level": 3,
       "tags": [
         {
           "text": "VAPE PRIVATE",
