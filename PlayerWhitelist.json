@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "27fedc151eda4139d8e4a8747c689cf3b17d3a55fbbecc58635c68fc419113a176f9082d9ca849998150f1e6068a90938ea99b0d4efd8aa1948385cffccf57d6",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 999,
       "tags": [
         {
           "text": "VELO",
