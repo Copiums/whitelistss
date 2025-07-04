@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "be9f46ed749f0f3621a579d9c8d334acee7ad57998d1652311cd91744c9769c3277472b8d1548211c24587be090fca236037140b2fdede1d761b4ac19ec59cff",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 1,
       "tags": [
         {
           "text": "Copium",
