@@ -46,13 +46,13 @@
       ]
     },
     "1144349422143143947": {
-      "hash": "236178747147566fbde631e156c0548070735cdb38c1837b59d17ca28b00a57229fb7044c098d3a44a9fc968a9b8e483bb8f9a0dff8167134d04a2e824fd94b3",
-      "attackable": false,
+      "hash": "c04f4a223787a0aacafe8ae715a20d8d378a0515ef5f8a181d00da03ff8186357f737e477c501446b921ec3737e9eb34955141320c4913514157962e877663b0",
+      "attackable": true,
       "notag": false,
-      "level": 3,
+      "level": 1,
       "tags": [
         {
-          "text": "LUC (needs update)",
+          "text": "luc",
           "color": [
             255,
             255,
