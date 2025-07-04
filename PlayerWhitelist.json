@@ -1,13 +1,13 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "27fedc151eda4139d8e4a8747c689cf3b17d3a55fbbecc58635c68fc419113a176f9082d9ca849998150f1e6068a90938ea99b0d4efd8aa1948385cffccf57d6",
-      "attackable": false,
+      "hash": "be9f46ed749f0f3621a579d9c8d334acee7ad57998d1652311cd91744c9769c3277472b8d1548211c24587be090fca236037140b2fdede1d761b4ac19ec59cff",
+      "attackable": true,
       "notag": false,
-      "level": 999,
+      "level": 0,
       "tags": [
         {
-          "text": "VELO",
+          "text": "Copium",
           "color": [
             255,
             255,
