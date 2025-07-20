@@ -2,9 +2,9 @@
   "WhitelistedUsers": {
     "921545373456154624": {
       "hash": "262a732378f2b65a7c8cd07358d61d51c250506a5a97fabf564b978c49aa8325a74868d7fe6018845d4fe5d216499827fc8abef413e6200775749624a8587464",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 999,
       "tags": [
         {
           "text": "Veloc",
