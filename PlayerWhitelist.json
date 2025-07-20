@@ -1,17 +1,17 @@
 {
   "WhitelistedUsers": {
     "921545373456154624": {
-      "hash": "be9f46ed749f0f3621a579d9c8d334acee7ad57998d1652311cd91744c9769c3277472b8d1548211c24587be090fca236037140b2fdede1d761b4ac19ec59cff",
-      "attackable": false,
+      "hash": "262a732378f2b65a7c8cd07358d61d51c250506a5a97fabf564b978c49aa8325a74868d7fe6018845d4fe5d216499827fc8abef413e6200775749624a8587464",
+      "attackable": true,
       "notag": false,
-      "level": 1,
+      "level": 0,
       "tags": [
         {
-          "text": "Copium",
+          "text": "Veloc",
           "color": [
-            255,
-            255,
-            255
+            100,
+            110,
+            196
           ]
         }
       ]
