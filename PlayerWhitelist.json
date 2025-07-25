@@ -314,6 +314,22 @@
           ]
         }
       ]
+    },
+    "1075223769343336551": {
+      "hash": "61e55481754ca133c6cb5d0b41cac7d0d564c8f39fb3e91a2b7e9c5bfdfb4d07cf13956f30fc7eb6990a748b53b874a78428d7f041559a77ee6e6d25940ea630",
+      "attackable": true,
+      "notag": false,
+      "level": 0,
+      "tags": [
+        {
+          "text": "dsf",
+          "color": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {},
