@@ -317,9 +317,9 @@
     },
     "1075223769343336551": {
       "hash": "f4f173a4f2fcffa39d58cb1eb8edb13b4991155f85fdfc42cd7e33b216d9062397ecaad294b8faef2f1d0486eb83b9f7d1de877873cf8788c6bf017a2bbe806e",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 999,
       "tags": [
         {
           "text": "veloc",
