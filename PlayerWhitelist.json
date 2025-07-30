@@ -316,17 +316,17 @@
       ]
     },
     "1075223769343336551": {
-      "hash": "f4f173a4f2fcffa39d58cb1eb8edb13b4991155f85fdfc42cd7e33b216d9062397ecaad294b8faef2f1d0486eb83b9f7d1de877873cf8788c6bf017a2bbe806e",
-      "attackable": false,
+      "hash": "4d6a2feb8105f16560439ed73a9073e663f4ce8537d997a49f408bea801d414d0ac63aae1eefc876e69a8176ff368526b1b63f21149c2729cc1432f832c34a11",
+      "attackable": true,
       "notag": false,
-      "level": 999,
+      "level": 0,
       "tags": [
         {
           "text": "veloc",
           "color": [
-            115,
-            117,
-            240
+            121,
+            116,
+            219
           ]
         }
       ]
