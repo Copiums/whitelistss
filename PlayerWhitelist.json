@@ -316,17 +316,17 @@
       ]
     },
     "1075223769343336551": {
-      "hash": "4d6a2feb8105f16560439ed73a9073e663f4ce8537d997a49f408bea801d414d0ac63aae1eefc876e69a8176ff368526b1b63f21149c2729cc1432f832c34a11",
-      "attackable": false,
+      "hash": "c59fe28f3271d6016ae95eee603f1bc7e926e4955fbddd3648f7c53cca29bb188212c836d7e0603a4d25621c2160b3a8ee6b15eb4874c2da4c5a1fe1dd2174ba",
+      "attackable": true,
       "notag": false,
-      "level": 999,
+      "level": 0,
       "tags": [
         {
-          "text": "veloc",
+          "text": "Mogger",
           "color": [
-            121,
-            116,
-            219
+            252,
+            186,
+            3
           ]
         }
       ]
