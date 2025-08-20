@@ -317,9 +317,9 @@
     },
     "1075223769343336551": {
       "hash": "c59fe28f3271d6016ae95eee603f1bc7e926e4955fbddd3648f7c53cca29bb188212c836d7e0603a4d25621c2160b3a8ee6b15eb4874c2da4c5a1fe1dd2174ba",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
-      "level": 0,
+      "level": 999,
       "tags": [
         {
           "text": "Mogger",
