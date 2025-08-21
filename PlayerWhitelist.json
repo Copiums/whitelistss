@@ -330,6 +330,22 @@
           ]
         }
       ]
+    },
+    "1329099232640106506": {
+      "hash": "599e209e0398682f41574a4ec32986c94523862da2ae68e9143059782b8f12b5668c545fd14169ee0aa38b9cc1e16563748652d4b73306760afb5f91f6330331",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VELOCITY PRIVATE",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {},
