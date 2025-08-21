@@ -333,7 +333,7 @@
     },
     "1329099232640106506": {
       "hash": "b2611e3c60ecf799eb38e456ff10884efb61b2c9ac3b7a2cde001055c8916d06d27ff04c254085c007297c208c38d2f5a145e81f79203573ad9691fa59b187ba",
-      "attackable": true,
+      "attackable": false,
       "notag": false,
       "level": 1,
       "tags": [
