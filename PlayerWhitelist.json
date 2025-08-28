@@ -346,6 +346,20 @@
           ]
         }
       ]
+    },
+    "1258996291271135235": {
+      "hash": "7c3cc5b7271325b541032868f459c19065168223ff5672b275a895e2bf4b9478d5181825fc67a626abd889495515968cf069819c173d32a32a2cea6bd55315d2",
+      "attackable": true,
+      "notag": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "fuck skids",
+          "color": [
+            null
+          ]
+        }
+      ]
     }
   },
   "BlacklistedUsers": {},
